@@ -1,0 +1,41 @@
+C:\Users\KKA\Desktop\OOP\sdat\lab1\lab1\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\KKA\Desktop\OOP\sdat\lab1\lab1\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\KKA\Desktop\OOP\sdat\lab1\lab1\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\KKA\Desktop\OOP\sdat\lab1\lab1\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+C:\Users\KKA\Desktop\OOP\sdat\lab1\lab1\PhoneBook\obj\Debug\PhoneBook.MainForm.resources
+C:\Users\KKA\Desktop\OOP\sdat\lab1\lab1\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\KKA\Desktop\OOP\sdat\lab1\lab1\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\KKA\Desktop\OOP\sdat\lab1\lab1\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\KKA\Desktop\OOP\sdat\lab1\lab1\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\KKA\Desktop\OOP\sdat\lab1\lab1\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\KKA\Desktop\OOP\sdat\lab1\lab1\PhoneBook\obj\Debug\PhoneBook.AddForm.resources
+C:\Users\KKA\Desktop\OOP\sdat\lab1\lab1\PhoneBook\obj\Debug\PhoneBook.Поиск_абонента.resources
+C:\Users\KKA\Desktop\OOP\sdat\lab1\lab1\PhoneBook\obj\Debug\PhoneBook.SearchAddressForm.resources
+C:\Users\KKA\Desktop\OOP\sdat\lab1\lab1\PhoneBook\obj\Debug\PhoneBook.SearchPhoneForm.resources
+C:\Users\BL1N41K\Desktop\lab1\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\BL1N41K\Desktop\lab1\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\BL1N41K\Desktop\lab1\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\BL1N41K\Desktop\lab1\PhoneBook\obj\Debug\PhoneBook.AddForm.resources
+C:\Users\BL1N41K\Desktop\lab1\PhoneBook\obj\Debug\PhoneBook.MainForm.resources
+C:\Users\BL1N41K\Desktop\lab1\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\BL1N41K\Desktop\lab1\PhoneBook\obj\Debug\PhoneBook.SearchAddressForm.resources
+C:\Users\BL1N41K\Desktop\lab1\PhoneBook\obj\Debug\PhoneBook.Поиск_абонента.resources
+C:\Users\BL1N41K\Desktop\lab1\PhoneBook\obj\Debug\PhoneBook.SearchPhoneForm.resources
+C:\Users\BL1N41K\Desktop\lab1\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\BL1N41K\Desktop\lab1\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\BL1N41K\Desktop\lab1\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\BL1N41K\Desktop\lab1\PhoneBook\obj\Debug\PhoneBook.pdb
+D:\4 семестр\ООП\lab1\PhoneBook\bin\Debug\PhoneBook.exe.config
+D:\4 семестр\ООП\lab1\PhoneBook\bin\Debug\PhoneBook.exe
+D:\4 семестр\ООП\lab1\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\4 семестр\ООП\lab1\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+D:\4 семестр\ООП\lab1\PhoneBook\obj\Debug\PhoneBook.AddForm.resources
+D:\4 семестр\ООП\lab1\PhoneBook\obj\Debug\PhoneBook.MainForm.resources
+D:\4 семестр\ООП\lab1\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+D:\4 семестр\ООП\lab1\PhoneBook\obj\Debug\PhoneBook.SearchAddressForm.resources
+D:\4 семестр\ООП\lab1\PhoneBook\obj\Debug\PhoneBook.Поиск_абонента.resources
+D:\4 семестр\ООП\lab1\PhoneBook\obj\Debug\PhoneBook.SearchPhoneForm.resources
+D:\4 семестр\ООП\lab1\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+D:\4 семестр\ООП\lab1\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+D:\4 семестр\ООП\lab1\PhoneBook\obj\Debug\PhoneBook.exe
+D:\4 семестр\ООП\lab1\PhoneBook\obj\Debug\PhoneBook.pdb
