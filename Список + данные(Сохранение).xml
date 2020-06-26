@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Notes>
+  <Note id="0">
+    <Lastname>Гонцов</Lastname>
+    <Name>Дмитрий</Name>
+    <Patronymic>Сергеевич</Patronymic>
+    <Street>Короленко</Street>
+    <House>29</House>
+    <Flat>8</Flat>
+    <Phone>(917) 920-3102</Phone>
+  </Note>
+  <Note id="1">
+    <Lastname>Никулин</Lastname>
+    <Name>Иван</Name>
+    <Patronymic>Николаевич</Patronymic>
+    <Street>Грибоедова</Street>
+    <House>3</House>
+    <Flat>6</Flat>
+    <Phone>(912) 939-7030</Phone>
+  </Note>
+  <Note id="2">
+    <Lastname>Блинов</Lastname>
+    <Name>Кирилл</Name>
+    <Patronymic>Алексеевич</Patronymic>
+    <Street>Комсомольская</Street>
+    <House>113</House>
+    <Flat>127</Flat>
+    <Phone>(912) 721-4088</Phone>
+  </Note>
+  <Note id="3">
+    <Lastname>Малышев</Lastname>
+    <Name>Максим</Name>
+    <Patronymic>Сергеевич</Patronymic>
+    <Street>Грибоедова</Street>
+    <House>94</House>
+    <Flat>12</Flat>
+    <Phone>(918) 890-3612</Phone>
+  </Note>
+  <Note id="4">
+    <Lastname>Лесник</Lastname>
+    <Name>Денис</Name>
+    <Patronymic>Николаевич</Patronymic>
+    <Street>Преображенская</Street>
+    <House>6</House>
+    <Flat>7</Flat>
+    <Phone>(913) 720-3105</Phone>
+  </Note>
+</Notes>
